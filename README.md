@@ -3,12 +3,20 @@
 <img src = "screenshots/heroku-turtle-final-3.png" width=480> <img src = "screenshots/heroku-sector-final-2.png" width=480>
 ## Purpose:
 
-1. Low-cost, self-maintained data parsing server.
+1. Help students search internships.
+2. Help bloc by providing our data.
+3. Help in project 4900
+4. Help Brooklyn College Students
+5. Help community with a free resourse.
+6. Help Development of code.
+
+## Objective:
+
+1. Low-cost, self-maintained data scraping App.
 2. Which can do data acces from internet.
 3. Do data manipulation
 4. Create your own API
 4. Host a web app/site to present that data.
-5. Use third party APIs
 
 ## Project Structure:
 
