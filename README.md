@@ -1,6 +1,6 @@
 # Internship-Project-4900
 
-<img src = "screenshots/heroku-sector-final-2.png" width=3200> <img src = "screenshots/heroku-turtle-final-3.png" width=320>
+<img src = "screenshots/heroku-sector-final-2.png" width=320> <img src = "screenshots/heroku-turtle-final-3.png" width=320>
 ## Purpose:
 
 1. Low-cost, self-maintained data parsing server.
