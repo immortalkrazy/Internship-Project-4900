@@ -1,6 +1,6 @@
 # Internship-Project-4900
 
-<img src = "Screenshots/raspi.jpg" width=180> <img src = "Screenshots/site-index.png" width=320> <img src = "Screenshots/NY-data-page.png" width=320>
+<img src = "screenshots/heroku-sector-final-2.png" width=180> <img src = "screenshots/heroku-turtle-final-3.png" width=320> <img src = "Screenshots/NY-data-page.png" width=320>
 
 ## Purpose:
 
