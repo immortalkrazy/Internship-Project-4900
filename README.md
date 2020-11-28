@@ -19,7 +19,7 @@
 4. Host a web app/site to present that data.
 
 ## Project Structure:
----------- 1. **BACKEND** ---------- 
+>>>>>>>>>>>>>>>>>>>>>>>>>> 1. **BACKEND** <<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
    - Data Source
      - Online sites with data
      - Look for useful info
@@ -40,7 +40,7 @@
      - Creation of tables and columns
      - AUTO UPDATE
      
-2. **MIDDLEWARE**
+2. >>>>>>>>>>>>>>>>>>>>>>>>>> **MIDDLEWARE** <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
    - API
       - Data
       - 
@@ -51,7 +51,7 @@
       - 
       - 
 
-3. **FRONTEND**
+3. >>>>>>>>>>>>>>>>>>>>>>>>>> **FRONTEND** <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
    - Inturtle
       - 
       - 
@@ -65,13 +65,13 @@
       - 
       - 
 
-4. **TESTING**
+4. >>>>>>>>>>>>>>>>>>>>>>>>>> **TESTING** <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
    - HEROKU
       - 
       - 
       - 
 
-5. **USAGE**
+5. >>>>>>>>>>>>>>>>>>>>>>>>>> **USAGE** <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
    - LOCAL
       - 
