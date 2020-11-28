@@ -43,14 +43,14 @@
      
 2. **MIDDLEWARE**
    - API
-      -
-      -
-      -
-      -
+      - 
+      - 
+      - 
+      - 
    - Data Retrievel
-      -
-      -
-      -
+      - 
+      - 
+      - 
 
 3. **FRONTEND**
    - Inturtle
@@ -58,7 +58,7 @@
       - 
       - 
       - 
-      -
+      - 
    - sector/bloc
       - 
       - 
@@ -92,4 +92,4 @@
       - 
 
 
-   - GO TO: www.HeemsResources.com
+      - GO TO: www.HeemsResources.com
