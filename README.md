@@ -19,7 +19,7 @@
 4. Host a web app/site to present that data.
 
 ## Project Structure:
->>>>>>>>>>>>>>>>>>>>>>>>>> 1. **BACKEND** <<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 1. **BACKEND** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
    - Data Source
      - Online sites with data
      - Look for useful info
