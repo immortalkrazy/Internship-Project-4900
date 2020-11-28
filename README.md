@@ -20,19 +20,25 @@
 
 ## Project Structure:
 
-1. **SERVER SETUP (back-end)** 
-   - HARDWARE
-     - RASPBERRY PI
-     - ROUTER
-   - SOFTWARE
-     - APACHE
-     - PHP
-     - MARIA DB
-     - GIT
-     - OTHERS
-   - SECURITY
-     - ACCESS CONTROLS
-     - HEADLESS & PASSWORDLESS SETUP
+1. **BACKEND** 
+   - Data Source
+     - Online sites with data
+     - Look for useful info
+     - Seach for tools of retrievel
+   - Retrievel
+     - Useful information
+     - Retrievel tools
+     - Parse data
+     - Look for useful informnation
+     - Match with our needs
+   - Scraper                                                                           <img src = "screenshots/heroku-sector-final-2.png" width=120>
+     - Create your own web scraper app
+     - Make it compatible with database
+     - Coding involved with db connection
+
+   - Database
+     - Database setup
+     - Creation of tables and columns
      - AUTO UPDATE
    - ACCOUNT SETUP
      - DOMAIN NAME CREATION
