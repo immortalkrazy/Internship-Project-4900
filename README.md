@@ -42,13 +42,13 @@
      - AUTO UPDATE
 2. **MIDDLEWARE**
    - API
-      - 
-      -   
-      -   
-      -   
-      -   
-      -   
-      -   
+     - 
+     -   
+     -   
+     -   
+     -   
+     -   
+     -   
    - Data Retrievel
       - 
       - 
