@@ -1,6 +1,7 @@
 # Internship-Project-4900
 
-<img src = "screenshots/heroku-turtle-final-3.png" width=480> <img src = "screenshots/heroku-sector-final-2.png" width=480>
+<img src = "screenshots/heroku-turtle-final-3.png" width=480> 
+<img src = "screenshots/heroku-sector-final-2.png" width=480>
 ## Purpose:
 
 1. Help students search internships.
