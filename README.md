@@ -20,7 +20,7 @@
 
 ## Project Structure:
 
-###1. **BACKEND** 
+1. **BACKEND** 
    - Data Source
      - Online sites with data
      - Look for useful info
@@ -41,27 +41,24 @@
      - Creation of tables and columns
      - AUTO UPDATE
      
-###2. **MIDDLEWARE**
-      - API
-           - 
-           -   
-     -   
-     -   
-     -   
-     -   
-     -   
+2. **MIDDLEWARE**
+   - API
+      -
+      -
+      -
+      -
    - Data Retrievel
-      - 
-      - 
-      - 
-        
+      -
+      -
+      -
+
 3. **FRONTEND**
    - Inturtle
       - 
       - 
       - 
       - 
-      - 
+      -
    - sector/bloc
       - 
       - 
