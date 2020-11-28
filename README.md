@@ -31,11 +31,11 @@
      - Parse data
      - Look for useful informnation
      - Match with our needs
-   - Scraper                                                                           <img src = "screenshots/heroku-sector-final-2.png" width=120>
+   - Scraper
      - Create your own web scraper app
      - Make it compatible with database
      - Coding involved with db connection
-
+     - <img src = "screenshots/2020-10-26(4).png" width=320>
    - Database
      - Database setup
      - Creation of tables and columns
