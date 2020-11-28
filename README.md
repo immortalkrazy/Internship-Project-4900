@@ -35,7 +35,7 @@
      - Create your own web scraper app
      - Make it compatible with database
      - Coding involved with db connection
-     - <img src = "screenshots/2020-10-26(4).png" width=320>
+     - <img src = "screenshots/sc.png" width=320>
    - Database
      - Database setup
      - Creation of tables and columns
