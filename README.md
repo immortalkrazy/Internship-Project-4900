@@ -40,10 +40,11 @@
      - Database setup
      - Creation of tables and columns
      - AUTO UPDATE
+     
 2. **MIDDLEWARE**
-   - API
-     - 
-     -   
+      - API
+           - 
+           -   
      -   
      -   
      -   
