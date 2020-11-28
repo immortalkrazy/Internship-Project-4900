@@ -19,7 +19,7 @@
 4. Host a web app/site to present that data.
 
 ## Project Structure:
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 1. **BACKEND** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+1. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx**BACKEND** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
    - Data Source
      - Online sites with data
      - Look for useful info
@@ -40,53 +40,53 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 1. **BACKEND** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
      - Creation of tables and columns
      - AUTO UPDATE
      
-2. >>>>>>>>>>>>>>>>>>>>>>>>>> **MIDDLEWARE** <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx **MIDDLEWARE** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
    - API
       - Data
       - 
       - 
       - 
    - Data Retrievel
-      - 
+      - 1
       - 
       - 
 
-3. >>>>>>>>>>>>>>>>>>>>>>>>>> **FRONTEND** <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+3. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx **FRONTEND** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
    - Inturtle
-      - 
+      - 1
       - 
       - 
       - 
       - 
    - sector/bloc
-      - 
+      - 1
       - 
       - 
       - 
       - 
 
-4. >>>>>>>>>>>>>>>>>>>>>>>>>> **TESTING** <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+4. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx **TESTING** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
    - HEROKU
-      - 
+      - 1
       - 
       - 
 
-5. >>>>>>>>>>>>>>>>>>>>>>>>>> **USAGE** <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+5. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx **USAGE** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
    - LOCAL
-      - 
+      - 1
       - 
       - 
    - HEROKU
-      - 
+      - 1
       - 
       - 
    - UBUNTU SERVER
-      - 
+      - 1
       - 
       - 
    - AWS 
-      - 
+      - 1
       - 
       - 
 
