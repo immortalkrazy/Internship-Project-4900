@@ -45,11 +45,11 @@
       - Data
       - 
       - 
-      - 
+      - <img src = "screenshots/2020-11-05.png" width=320>
    - Data Retrievel
       - 1
       - 
-      - 
+      - <img src = "screenshots/In_1_GET.png" width=320>
 
 3. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx **FRONTEND** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
    - Inturtle
@@ -57,19 +57,19 @@
       - 
       - 
       - 
-      - 
+      - <img src = "screenshots/In_7b_Final.png" width=320>
    - sector/bloc
       - 1
       - 
+      - <img src = "screenshots/20201107.png" width=320>
       - 
-      - 
-      - 
+      - <img src = "screenshots/sc.png" width=320>
 
 4. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx **TESTING** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
    - HEROKU
       - 1
       - 
-      - 
+      - <img src = "screenshots/heroku-sector-final-2.png" width=320>
 
 5. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx **USAGE** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
